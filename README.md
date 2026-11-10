@@ -61,3 +61,13 @@ Seja bem-vindo ao meu perfil!
 />
 
 <br/>
+
+### 🔥Sequência de contribuições
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="500px" 
+    style="padding-right: 10px;" 
+    src="https://streak-stats.demolab.com?user=Ismaelaparecido97-oss&theme=radical&locale=pt_BR"
+/>
